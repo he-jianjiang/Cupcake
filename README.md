@@ -1,4 +1,4 @@
-Cupcake app
+《这是课堂学习项目》
 =================================
 
 This app contains an order flow for cupcakes with options for quantity, flavor, and pickup date.
@@ -6,14 +6,14 @@ The order details get displayed on an order summary screen and can be shared to 
 send the order.
 
 
-Pre-requisites
+何建江
 --------------
 * Experience with Kotlin syntax.
 * How to create and run a project in Android Studio.
 * How to create composable functions 
 
 
-Getting Started
+42311112
 ---------------
 1. Install Android Studio, if you don't already have it.
 2. Download the sample.
